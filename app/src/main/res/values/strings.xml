@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth Demo</string>
+    <string name="turn_on">Turn On</string>
+    <string name="turn_off">Turn Off</string>
+    <string name="make_visible">Visible</string>
+    <string name="list_paired_devices">List Paired Devices</string>
+    <string name="search_new_devices">Search New Devices</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
